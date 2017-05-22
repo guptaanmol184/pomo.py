@@ -33,11 +33,6 @@ chmod +x ./pomo.py
 ./pomo.py
 ```
 
-### To run in the back ground use
-```
-./pomo.py &
-```
-
 ## LICENSE
 
 MIT
