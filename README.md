@@ -6,6 +6,8 @@ A simple python script for a audio based pomodoro timer to be used on linux syst
 
 The timer settings for individual preferences can be easily set by changing respective values of **workTime** and **breakTime** variables in the script.
 
+_This was created just for fun purposes._
+
 Tested on Linux (Ubuntu)
 
 ## Dependencies
