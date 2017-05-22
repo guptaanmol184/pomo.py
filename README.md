@@ -36,3 +36,5 @@ chmod +x ./pomo.py
 ## LICENSE
 
 MIT
+
+_Happy working!_
