@@ -12,30 +12,27 @@ _This was created just for fun purposes and learning about python._
 
 Tested on Linux (Ubuntu)
 
-## Dependencies
+### Dependencies
 
-### [mpg123](https://www.mpg123.de)
-
+#### [mpg123](https://www.mpg123.de)
 ```
 sudo apt-get install mpg123
 ```
 
-### [gTTS](https://github.com/pndurette/gTTS)
-
+#### [gTTS](https://github.com/pndurette/gTTS)
 ```
 sudo pip3 install gtts
 ```
 
-## Run
+### Run
 
-### Make script executable and run
-
+#### Make script executable and run
 ```
 chmod +x ./pomo.py
 ./pomo.py
 ```
 
-## LICENSE
+### LICENSE
 
 MIT
 
