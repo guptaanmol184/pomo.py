@@ -2,7 +2,9 @@
 
 A simple python script for a audio based pomodoro timer to be used on linux systems
 
-*pomo.py* runs a pomodoro timer on linux systems and provides audio alerts for starting and stopping of the timer.
+**_pomo.py_** runs a pomodoro timer on linux systems and provides audio alerts for starting and stopping of the timer.
+
+The timer settings for individual preferences can be easily set by changing respective values of **workTime** and **breakTime** variables in the script.
 
 Tested on Linux (Ubuntu)
 
@@ -20,11 +22,18 @@ sudo apt-get install mpg123
 sudo pip3 install gtts
 ```
 
-## Make script executable and run
+## Run
+
+### Make script executable and run
 
 ```
 chmod +x ./pomo.py
 ./pomo.py
+```
+
+### To run in the back ground use
+```
+./pomo.py &
 ```
 
 ## LICENSE
