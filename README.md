@@ -6,7 +6,9 @@ A simple python script for a audio based pomodoro timer to be used on linux syst
 
 The timer settings for individual preferences can be easily set by changing respective values of **workTime** and **breakTime** variables in the script.
 
-_This was created just for fun purposes._
+_**Requires a working internet connection for gtts to work.**_
+
+_This was created just for fun purposes and learning about python._
 
 Tested on Linux (Ubuntu)
 
