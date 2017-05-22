@@ -1,4 +1,4 @@
-# pomo.Py
+# pomo.py
 
 A simple python script for a audio based pomodoro timer to be used on linux systems
 
@@ -20,7 +20,7 @@ sudo apt-get install mpg123
 sudo pip3 install gtts
 ```
 
-## Mkae script executable and run
+## Make script executable and run
 
 ```
 chmod +x ./pomo.py
