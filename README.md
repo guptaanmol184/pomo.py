@@ -21,7 +21,7 @@ sudo apt-get install mpg123
 
 #### [gTTS](https://github.com/pndurette/gTTS)
 ```
-sudo pip3 install gtts
+pip3 install gtts
 ```
 
 ### Run
